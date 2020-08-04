@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-29T20:45:32.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="EufwXTrqwIqskt46t8Fg" version="13.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-04T16:54:45.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7Fy7G6zl21wCEpHUrByt" version="13.5.5" type="github" pages="2">
   <diagram name="round-1" id="V1udp83QrHdlb7KgZLk1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -56,12 +56,12 @@
           <mxGeometry x="490" y="570" width="230" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cC-7QXKXjUlyB1NksO2M-19" value="pit:r-2&quot;6&#39;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;" parent="cC-7QXKXjUlyB1NksO2M-1" vertex="1">
-          <mxGeometry x="350" y="515" width="80" height="80" as="geometry" />
+          <mxGeometry x="335" y="515" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC-7QXKXjUlyB1NksO2M-20" value="spacing around fire pit: 40 inch&#xa;Stone: https://www.keystonehardscapes.com/retaining-walls/Harington-Freestanding-3-pc/889&#xa;&#xa;Circle radius: 6&quot; not including outer wall - wall length around it is 55&quot;&#xa;&#xa;Total area for paver: 370 sqft (with margin)&#xa;&#xa;level height: 24 inches to sand" style="aspect=fixed;shadow=0;sketch=0;textDirection=ltr;align=left;verticalAlign=top;glass=0;rounded=1;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="cC-7QXKXjUlyB1NksO2M-1" vertex="1">
+        <mxCell id="cC-7QXKXjUlyB1NksO2M-20" value="spacing around fire pit: 40 inch&#xa;&#xa;Circle radius: 6&quot; not including outer wall - wall length around it is 55&quot;&#xa;&#xa;Total area for paver: 450 sqft (with margin)&#xa;&#xa;level height: 24 inches to sand" style="aspect=fixed;shadow=0;sketch=0;textDirection=ltr;align=left;verticalAlign=top;glass=0;rounded=1;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="cC-7QXKXjUlyB1NksO2M-1" vertex="1">
           <mxGeometry x="350" y="40" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="yqRjIMJOl_6imNT6ql9P-0" value="5&quot;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=-5;labelBackgroundColor=#ffffff;rotation=-90;" vertex="1" parent="cC-7QXKXjUlyB1NksO2M-1">
+        <mxCell id="yqRjIMJOl_6imNT6ql9P-0" value="5&quot;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=-5;labelBackgroundColor=#ffffff;rotation=-90;" parent="cC-7QXKXjUlyB1NksO2M-1" vertex="1">
           <mxGeometry x="705" y="545" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
